@@ -1,0 +1,13 @@
+banana
+melancia
+morango
+tangerina
+kiwi
+laranja
+lima
+uva
+abacaxi
+manga
+cereja
+abacate
+
